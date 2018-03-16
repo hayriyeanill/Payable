@@ -1,0 +1,4 @@
+In this example different kind of “payable” objects (employee’s and invoice) are processed polymorphically. 
+All Employees (Hourly, BaseSalaried, Commission, BasePlusCommission) and Invoice are Concrete Classes. 
+Payable is interface 
+Employee is an Abstract Class. 
